@@ -1,3 +1,4 @@
-from .hand_detection import HandDetector
+from .controllers import VolumeController
+from .hand_tracker import HandDistanceCalculator, HandLandmarkProcessor
 
-print("Pacote principal carregado!")
+print("Main package loaded!")
