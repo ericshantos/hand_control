@@ -1,4 +1,4 @@
-[🇧🇷] Leia em português
+[🇧🇷] [Leia em português](./README-pt.md)
 
 # Hand Control
 

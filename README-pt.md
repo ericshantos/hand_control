@@ -1,4 +1,4 @@
-[🇬🇧] Read in Englidh
+[🇬🇧] [Read in English](./README.md)
 
 # Controle por Gestos
 
