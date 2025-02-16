@@ -8,7 +8,7 @@ import math
 from typing import List, Tuple
 
 
-class HandDistanceCalculator:
+class DistanceCalculator:
     """
     Class for calculating distances between hand landmarks.
     """
